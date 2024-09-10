@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">test1</string>
+    <string name="client_id">n9l8EdcEf2HxNkFowOrq</string>
+    <string name="client_secret">_zvi9HAdn4</string>
+    <string name="client_name">yedecos_login</string>
+
+</resources>
